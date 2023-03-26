@@ -1,6 +1,6 @@
 # Lecture_Wise_Saying
 
-<오늘 배운 것>
+#### 오늘 배운 것
 
 ## 1. 폰트 적용 방법
 - Download font
