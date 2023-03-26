@@ -2,16 +2,17 @@
 
 <오늘 배운 것>
 
-1. 폰트 적용 방법
+## 1. 폰트 적용 방법
 - Download font
 - res 폴더 아래 font directory 생성
 - font 폴더에 font 추가
   이때, font 파일 이름에 capital letters 들어가면 X
 - activity.xml에  android:fontFamily="@font/bmjua"
-  위와 같은 형태로 작성해 주면 된다.
+  위와 같은 형태로 작성해 주면 된다.  
+  
   
 
-2. Adapter를 사용해서 Listview 만들기
+## 2. Adapter를 사용해서 Listview 만들기
 
 - Listview를 만들기 위해선 Adapter를 사용해야 한다.
 
